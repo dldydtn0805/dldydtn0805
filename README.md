@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=SSAFY 10th&fontSize=90)
+
 
 # Hello world! 😄
 
-![Alt text](<화면 캡처 2023-07-14 112453.jpg>)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SSAFY 10th&fontSize=90)
 
 ## Introduction
 안녕하세요. 반갑습니다. 🙉
