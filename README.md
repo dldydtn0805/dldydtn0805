@@ -7,7 +7,7 @@
 ## Introduction
 안녕하세요. 반갑습니다. 🙉
 ## Skills
-- Python, Java
+- Python,  Django, JavaScript, TypeScript, React, Nextjs
 
 ## Education
 - SSAFY 10기 
