@@ -23,52 +23,32 @@
 ---
 
 ### Frontend
-
-https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
-
-https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
-
-https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black
-
-https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white
-
-https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
-
-https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-
-https://img.shields.io/badge/WebSocket-5FA9E9?style=flat-square&logo=websocket&logoColor=white
-
-https://img.shields.io/badge/Zustand-3CACAE?style=flat-square&logo=zustand&logoColor=white
-
-https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white
-
-https://img.shields.io/badge/Mui-0081CB?style=flat-square&logo=mui&logoColor=white
-
-https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![WebSocket](https://img.shields.io/badge/WebSocket-5FA9E9?style=for-the-badge&logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+[![Zustand](https://img.shields.io/badge/Zustand-3CACAE?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/pmndrs/zustand)
+[![React Query](https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)](https://react-query.tanstack.com/)
+[![Material-UI](https://img.shields.io/badge/Mui-0081CB?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 
 ### Game Client
-
-https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white
-
-https://img.shields.io/badge/Unreal%20Engine%204-313131?style=flat-square&logo=unrealengine&logoColor=white
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%204-313131?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 
 ### Collaboration
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+[![Perforce](https://img.shields.io/badge/Perforce-808080?style=for-the-badge&logo=perforce&logoColor=white)](https://www.perforce.com/)
+[![Mattermost](https://img.shields.io/badge/MatterMost-0072C6?style=for-the-badge&logo=mattermost&logoColor=white)](https://mattermost.com/)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 
-https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
-
-https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white
-
-https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white
-
-https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white
-
-https://img.shields.io/badge/Perforce-808080?style=flat-square&logo=perforce&logoColor=white
-
-https://img.shields.io/badge/MatterMost-0072C6?style=flat-square&logo=mattermost&logoColor=white
-
-https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white
-
-https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white
 
 # 👔 Education & Certificate
 
