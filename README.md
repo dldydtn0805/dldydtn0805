@@ -1,7 +1,3 @@
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldydtn0805&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 # 🐱 About Me
 
 ---
@@ -65,3 +61,6 @@
 - 삼성 SW 역량 테스트 A형
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldydtn0805)](https://solved.ac/dldydtn0805/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldydtn0805&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
