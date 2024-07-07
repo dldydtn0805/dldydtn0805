@@ -47,12 +47,12 @@
 ### Education
 
 - 경희대학교 언론정보학과
-- SSAFY 10기
+- 삼성 청년 소프트웨어 아카데미 [10기]
 
 ### Certificate
 
 - SQLD
-- 삼성 SW 역량 테스트 A형
+- 삼성 SW 역량 테스트 [A형]
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldydtn0805)](https://solved.ac/dldydtn0805/)
 
