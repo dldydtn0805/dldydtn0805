@@ -3,13 +3,13 @@
 ---
 
 ### Introduction
-- 안녕하세요. 반갑습니다. 🙉
-- 웹 프론트엔드 분야에서 프로젝트 경험을 쌓아온 개발자 이용수입니다.
+- 리액트(React) 를 활용한 CSR 개발과 Next.JS를 활용한 SSR 경험이 있습니다.
+- 재사용성과 간결함의 균형을 잡아 더 효율적이고 유지보수가 쉬운 코드를 만들어내고자 합니다.
+- 코드의 품질과 구조에 대해 깊이 고민하고 개선하고자 합니다.
 
 ### Contact
 
 - Email : ssafysoo95@gmail.com
-- Blog : https://velog.io/@kingsoo0307/posts
 - github : https://github.com/dldydtn0805
 
 # ⚒️ 기술 스택
@@ -29,16 +29,12 @@
 [![Material-UI](https://img.shields.io/badge/Mui-0081CB?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 
-### Game Client
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%204-313131?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 
 ### Collaboration
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
-[![Perforce](https://img.shields.io/badge/Perforce-808080?style=for-the-badge&logo=perforce&logoColor=white)](https://www.perforce.com/)
 [![Mattermost](https://img.shields.io/badge/MatterMost-0072C6?style=for-the-badge&logo=mattermost&logoColor=white)](https://mattermost.com/)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
