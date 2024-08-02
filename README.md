@@ -12,8 +12,10 @@
 
 ### Contact
 
-- Email : ssafysoo95@gmail.com
+- Email : dldydtn0805@naver.com
 - github : https://github.com/dldydtn0805
+- Velog : https://velog.io/@kingsoo0307/posts
+- Backjoon : https://www.acmicpc.net/user/dldydtn0805
 
 # ⚒️ 기술 스택
 
