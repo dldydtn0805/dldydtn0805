@@ -1,4 +1,4 @@
-# MYSTERY DEVELOPER
+# :open_mouth: MYSTERY DEVELOPER
 
 ---
 
