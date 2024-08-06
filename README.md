@@ -12,7 +12,7 @@
 
 ### Contact
 
-[![Email](https://img.shields.io/badge/Email-dldydtn0805%40naver.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dldydtn0805@naver.com)
+[![Email](https://img.shields.io/badge/Email-dldydtn0805%40naver.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:dldydtn0805@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dldydtn0805)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kingsoo0307/posts)
 [![Baekjoon](https://img.shields.io/badge/Baekjoon-0033A0?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.acmicpc.net/user/dldydtn0805)
