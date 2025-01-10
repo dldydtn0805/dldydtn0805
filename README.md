@@ -3,7 +3,6 @@
 ### Contact
 
 - mail : dldydtn0805@naver.com
-- git : https://github.com/dldydtn0805
 - blog : https://velog.io/@kingsoo0307/posts
 
 # Skills
