@@ -14,7 +14,7 @@
 
 ## BackEnd
 
-- Django | Mysql
+- Django | MySQL
 - Python
 
 ## Client
